@@ -1,0 +1,26 @@
+package addMinus;
+
+public class Exercise1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       System.out.println(" I wake up everyday around 6.00 morning.");
+       System.out.println(" Then, i take a bath and prayers.");
+       System.out.println(" Around 7.30 a.m , i'll searching for breakfast.");
+       System.out.println(" Then, at 9.00 a.m , i'm ready for the morning classes.");
+       
+       System.out.println(" ");
+       
+       System.out.println(" At 1.00 p.m , i usually take a break and go for recess. ");
+       System.out.println(" After that, continue with afternoon classes. ");
+       System.out.println(" At 6.00 p.m , i do some activities like jogging and playing badminton ");
+       
+       System.out.println(" ");
+       
+       System.out.println(" Around 9.00 p.m , most of that time i will sleep and wake up around 2.00 a.m ");
+       System.out.println(" I usually spent around 2 to 3 hour to explore more about coding.  ");
+       System.out.println(" I learn more abaout coding in youtube and through google. ");
+       System.out.println(" Then i will take a nap and wake up on 6.00 a.m ");
+	}
+
+}
